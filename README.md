@@ -1,2 +1,2 @@
 # resume
-Resume Website for Emily Grimm
+Resume Website for Emily Grimm: https://emigrimm.github.io/resume/
